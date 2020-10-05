@@ -5,6 +5,8 @@ public class TeaClass {
 
         System.out.println("Let's drink tea with cookies ");
 
+        System.out.println("Let's drink juice");
+        
     }
 
 }
